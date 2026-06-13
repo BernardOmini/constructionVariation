@@ -10,3 +10,25 @@
 }
 
 
+h1, h2 {
+    color: teal;
+}
+
+
+
+li {
+    color: green;
+}
+
+p {
+    color: green;
+}
+
+
+body {
+    font-family: cursive;
+}
+
+body {
+    font-size: 20px;
+}
